@@ -61,7 +61,7 @@ const Portfolio = () => {
             </div>
             <div className="mt-2">
               <a
-                href="/resume.pdf"
+                href="https://drive.google.com/file/d/1--TgSTzIVNRzdk-2tB82vLm68CIHB2QU/view?usp=sharing"
                 download
                 className=" text-blue-400 hover:underline "
               >
